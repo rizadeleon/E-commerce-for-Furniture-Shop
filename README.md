@@ -5,5 +5,5 @@ Our project, Ecommerce for furniture shop is an online shop for furniture seller
 2. Extract zip file
 3. Import .sql file in the database name adminpanel
 4. open xampp server, start apache and MySQL
-5. change localhost into your ipV4 address
+5. change localhost into your ipV4 address (run cmd and type ipconfig)
 6. run emulator
